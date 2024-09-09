@@ -2,9 +2,9 @@ build:
   version: "2.0"
 
 loans:
-  message: "LOAN Service PROD"
+  message: "[github] Loan Service - Production"
   contactDetails:
-    name: "John Doe"
+    name: "Production Admin"
     email: "john@doe.com"
   onCallSupport:
     - (800) 123-4567

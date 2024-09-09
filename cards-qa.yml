@@ -2,9 +2,9 @@ build:
   version: "2.0"
 
 cards:
-  message: "CARD Service QA"
+  message: "[github] Card Service - QA"
   contactDetails:
-    name: "John Doe"
+    name: "QA Admin"
     email: "john@doe.com"
   onCallSupport:
     - (800) 123-4567

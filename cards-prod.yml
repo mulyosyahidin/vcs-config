@@ -2,9 +2,9 @@ build:
   version: "2.0"
 
 cards:
-  message: "CARD Service PROD [CONFIG]"
+  message: "[github] Card Service - Production"
   contactDetails:
-    name: "John Doe"
+    name: "Production Admin"
     email: "john@doe.com"
   onCallSupport:
     - (800) 123-4567

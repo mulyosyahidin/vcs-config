@@ -2,9 +2,9 @@ build:
   version: "2.0"
 
 accounts:
-  message: "ACCOUNT Service PROD"
+  message: "[github] Account Service - Production"
   contactDetails:
-    name: "John Doe"
+    name: "Production Admin"
     email: "john@doe.com"
   onCallSupport:
     - (800) 123-4567
