@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-cards:
+accounts:
   message: "ACCOUNT Service PROD"
   contactDetails:
     name: "John Doe"
