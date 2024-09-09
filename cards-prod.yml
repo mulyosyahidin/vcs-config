@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "[github] Card Service - Production  [updated from cards-prod.yml GitHub using RabbitMQ]"
+  message: "[github] Card Service - Production  [updated from cards-prod.yml GitHub using Webhook]"
   contactDetails:
     name: "Production Admin"
     email: "john@doe.com"
