@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "[github] Loan Service - Production  [updated from loans-prod.yml GitHub using actuator path]"
+  message: "[github] Loan Service - Production  [updated from loans-prod.yml GitHub using RabbitMQ]"
   contactDetails:
     name: "Production Admin"
     email: "john@doe.com"
