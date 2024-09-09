@@ -1,0 +1,11 @@
+build:
+  version: "4.0"
+
+cards:
+  message: "LOAN Service - MAIN"
+  contactDetails:
+    name: "John Doe"
+    email: "john@doe.com"
+  onCallSupport:
+    - (800) 123-4567
+    - (800) 765-4321
