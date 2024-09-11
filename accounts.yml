@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "[github] Account Service - Default [webhook]"
+  message: "[github] Account Service - Default [webhook] [2]"
   contactDetails:
     name: "Default Admin"
     email: "john@doe.com"
