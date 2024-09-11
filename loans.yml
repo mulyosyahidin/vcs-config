@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "[github] Loan Service - Default [webhook] [3]"
+  message: "[github] Loan Service - Default [webhook] [5]"
   contactDetails:
     name: "Default Admin"
     email: "john@doe.com"
