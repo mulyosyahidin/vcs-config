@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-cards:
+loans:
   message: "[github] Loan Service - Default"
   contactDetails:
     name: "Default Admin"
